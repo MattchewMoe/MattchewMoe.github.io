@@ -6,4 +6,3 @@ layout: home
 permalink: /
 ---
 
-Hey Buddies!
